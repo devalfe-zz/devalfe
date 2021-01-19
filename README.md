@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hola, soy Félix Franco 👋
+Soy un ingeniero de desarrollo de software.
+Algunas tecnologías que estoy aprendiendo son React, Redux, Testing.
 <!--
 **devalfe/devalfe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
