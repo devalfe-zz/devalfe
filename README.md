@@ -1,4 +1,7 @@
 ### Hola, soy Félix Franco 👋
+
+<img src="https://raw.githubusercontent.com/devalfe/devalfe/main/banner.png" alt="banner">
+
 Soy un ingeniero de desarrollo de software.
 Algunas tecnologías que estoy aprendiendo son React, Redux, Testing.
 <!--
