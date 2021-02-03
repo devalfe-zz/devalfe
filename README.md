@@ -8,7 +8,7 @@ Con conocimiento en: Angular, HTML, CSS (Sass), JavaScript, TypeScript, UX
 & UI ✨ Front-End ✨ y conocimientos intermedios por el lado del Bank-End: Laravel, PHP, NodeJs y Bases de Datos MySQL, MariaDB, MongDB, Microsoft SQL Serve.
 
 - 🔭 Actualmente estoy trabajando de Freelancer
-- 🌱 Actualmente estoy aprendiendo Redux, React y un pco de Vuejs
+- 🌱 Actualmente estoy aprendiendo Redux, React y un poco de Vuejs
 - 👯 Estoy buscando colaborar en proyectos de Front-end
 - 💬 Pregúntame sobre temas relacionados con angular, html, js, css, laravel
 - 📫 Cómo contactarme: xilef_v7@outlook.com
