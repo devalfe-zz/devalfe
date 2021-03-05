@@ -5,7 +5,7 @@
 Soy un ingeniero de desarrollo de software.
 
 Con conocimiento en: Angular, HTML, CSS (Sass), JavaScript, TypeScript, UX
-& UI ✨ Front-End ✨ y conocimientos intermedios por el lado del Back-End: Laravel, PHP, NodeJs y Bases de Datos MySQL, MariaDB, MongDB, Microsoft SQL Serve.
+& UI ✨ Front-End ✨ y conocimientos intermedios por el lado del Back-End: Laravel, PHP, NodeJs y Bases de Datos MySQL, MariaDB, MongDB, Microsoft SQL Server.
 
 - 🔭 Actualmente estoy trabajando de Freelancer
 - 🌱 Actualmente estoy aprendiendo Redux, React y un poco de Vuejs
